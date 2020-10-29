@@ -477,6 +477,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/coding-without-google
+    # short description of image
+    alt: Coding Without Google
+    # your github profile name and github account
+    posted_by: iccir919
+    github: https://github.com/iccir919
 
 
 
