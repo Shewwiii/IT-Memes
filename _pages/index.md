@@ -476,6 +476,14 @@ gallery:
     # your github profile name and github account
     posted_by: Nick Neos
     github: https://github.com/nickneos
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/server-is-down.jpeg
+    # short description of image
+    alt: Server is down
+    # your github profile name and github account
+    posted_by: Vova
+    github: https://github.com/01vova
 
 
 
