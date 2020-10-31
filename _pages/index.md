@@ -485,6 +485,15 @@ gallery:
     posted_by: shewwiii
     github: https://github.com/shewwiii
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/quarantine.jpg
+    # short description of image
+    alt: Quarantined programmer
+    # your github profile name and github account
+    posted_by: shewwiii
+    github: https://github.com/shewwiii
+    
+
 
 
 
