@@ -477,6 +477,13 @@ gallery:
     posted_by: Nick Neos
     github: https://github.com/nickneos
 
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/bubbles-codes.jpg
+    # short description of image
+    alt: The Powerpuff Girls programmer
+    # your github profile name and github account
+    posted_by: shewwiii
+    github: https://github.com/shewwiii
 
 
 
