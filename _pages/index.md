@@ -485,14 +485,6 @@ gallery:
     posted_by: shewwiii
     github: https://github.com/shewwiii
 
-  # insert image details below (spacing important!)
-  - image_path: /assets/memes/you-vs-the-guy.png
-    # short description of image
-    alt: You VS the guy she tells you not to worry about
-    # your github profile name and github account
-    posted_by: shewwiii
-    github: https://github.com/shewwiii
-
 
 
 
