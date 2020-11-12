@@ -494,6 +494,14 @@ gallery:
     github: https://github.com/iampk94
 
   # insert image details below (spacing important!)
+  - image_path: /assets/memes/recursion.jpg
+    # short description of image
+    alt: Recursion
+    # your github profile name and github account
+    posted_by: shewwiii
+    github: https://github.com/shewwiii
+    
+  # insert image details below (spacing important!)
   - image_path: /assets/memes/whenyoustuffupbutstillsucceed.jpg
     # short description of image
     alt: When you stuff up be still succeed
@@ -535,7 +543,10 @@ gallery:
     
     
     
-    
+
+
+
+
 
 ### leave below as is
 ---
