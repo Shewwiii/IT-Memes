@@ -500,6 +500,14 @@ gallery:
     # your github profile name and github account
     posted_by: nelson-w
     github: https://github.com/nelson-w
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/coding-without-google
+    # short description of image
+    alt: Coding Without Google
+    # your github profile name and github account
+    posted_by: iccir919
+    github: https://github.com/iccir919
 
   # insert image details below (spacing important!)
   - image_path: /assets/memes/code_review.jpg
