@@ -524,7 +524,14 @@ gallery:
     # your github profile name and github account
     posted_by: sixthshift
     github: https://github.com/sixthshift    
-    
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/server-is-down.jpeg
+    # short description of image
+    alt: Server is down
+    # your github profile name and github account
+    posted_by: Vova
+    github: https://github.com/01vova
     
     
     
