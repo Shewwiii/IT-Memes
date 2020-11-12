@@ -476,11 +476,51 @@ gallery:
     # your github profile name and github account
     posted_by: Nick Neos
     github: https://github.com/nickneos
+  
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/meme_cannot_reproduce.png
+    # short description of image
+    alt: Dev cannot reproduce bug in local
+    # your github profile name and github account
+    posted_by: Tuhin Roy
+    github: https://github.com/troy96
+    
+  # insert image details below (spacing important!)  
+  - image_path: /assets/memes/deadline.jpg
+    # short description of image
+    alt: Dealing with dealine of project
+    # your profile name and github page
+    posted_by: PradheePKumar_R
+    github: https://github.com/iampk94
 
   # insert image details below (spacing important!)
-  - image_path: /assets/memes/bubbles-codes.jpg
+  - image_path: /assets/memes/recursion.jpg
     # short description of image
-    alt: The Powerpuff Girls programmer
+    alt: Recursion
+    # your github profile name and github account
+    posted_by: shewwiii
+    github: https://github.com/shewwiii
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/whenyoustuffupbutstillsucceed.jpg
+    # short description of image
+    alt: When you stuff up be still succeed
+    # your github profile name and github account
+    posted_by: nelson-w
+    github: https://github.com/nelson-w
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/coding-without-google.jpg
+    # short description of image
+    alt: Coding Without Google
+    # your github profile name and github account
+    posted_by: iccir919
+    github: https://github.com/iccir919
+
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/quarantine.jpg
+    # short description of image
+    alt: Quarantined programmer
     # your github profile name and github account
     posted_by: shewwiii
     github: https://github.com/shewwiii
@@ -493,19 +533,32 @@ gallery:
     posted_by: shewwiii
     github: https://github.com/shewwiii
     
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/code_review.jpg
+    # short description of image
+    alt: Corporate Devs
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift
+    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/robot.jpg
+    # short description of image
+    alt: Are you a robot?
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift    
 
-
-
-
-
-
-
-
-
-
-
-
-
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/server-is-down.jpeg
+    # short description of image
+    alt: Server is down
+    # your github profile name and github account
+    posted_by: Vova
+    github: https://github.com/01vova
+    
+    
+    
 
 
 
