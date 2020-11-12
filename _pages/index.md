@@ -509,7 +509,13 @@ gallery:
     posted_by: sixthshift
     github: https://github.com/sixthshift
     
-    
+  # insert image details below (spacing important!)
+  - image_path: /assets/memes/robot.jpg
+    # short description of image
+    alt: Are you a robot?
+    # your github profile name and github account
+    posted_by: sixthshift
+    github: https://github.com/sixthshift    
     
     
     
